@@ -1,2 +1,1 @@
-# h97hackintosh
-H97 PC-MATE - 4770K I7 HACKINTRASH
+I am trying man.
